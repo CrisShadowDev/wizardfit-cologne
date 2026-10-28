@@ -1,0 +1,36 @@
+{
+  "store": "WizardFit Cologne",
+  "tier": "Semi-fast: premium fragrance",
+  "products": [
+    {
+      "name": "Chrome Citrus Cologne",
+      "desc": "Citrus, chrome woods.",
+      "price_planning": "$115"
+    },
+    {
+      "name": "Neon Woods",
+      "desc": "Smoky woods, neon amber.",
+      "price_planning": "$130"
+    },
+    {
+      "name": "Midnight Dragon",
+      "desc": "Evening, bold, long wear.",
+      "price_planning": "$145"
+    },
+    {
+      "name": "Wizard Spice",
+      "desc": "Spiced, warm.",
+      "price_planning": "$120"
+    },
+    {
+      "name": "Gold Reserve Cologne",
+      "desc": "Limited, premium bottle.",
+      "price_planning": "$230"
+    },
+    {
+      "name": "Fresh Chrome Daily",
+      "desc": "Daily fresh, clean.",
+      "price_planning": "$95"
+    }
+  ]
+}
